@@ -7,7 +7,8 @@ fun main() {
 
     while (true) {
         println("""
-                                     __,                      ,__
+            
+                         __,                      ,__
                       __/==+\  MENU DE OPCIONES  /+==\__
                         "  "`   ===============   '"  "
                         
